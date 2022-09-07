@@ -13,7 +13,7 @@ print(string.capwords(s))
 
 import string 
    
-values = {'name':'Гор', 'firstname':'Манучарян', 'phd': 'Высшее'}
+values = {'name':'Гор', 'firstname':'ооо', 'phd': 'Высшее'}
 t = string.Template(""" 
 
 Имя: $name
